@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="Screenshot 2025-12-07 185225" src="https://github.com/user-attachments/assets/f527435f-a91b-46ee-8fa6-8bafd943f691" />
+
+
+
 ![power bi](https://github.com/user-attachments/assets/82e26db9-1ac6-42b4-9112-eee3e1d8991c)
 📊 Global Superstore Sales Insights
 Business Intelligence Project using Power BI, DAX & Data Visualization
