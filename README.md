@@ -10,6 +10,7 @@
 ![power bi](https://github.com/user-attachments/assets/82e26db9-1ac6-42b4-9112-eee3e1d8991c)
 
 <img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/dbd1dcb8-4c7c-47e0-ad89-fea4b681a9f7" />
+CONFIDENCE INTERVAL -95%
 
 📊 Global Superstore Sales Insights
 Business Intelligence Project using Power BI, DAX & Data Visualization
